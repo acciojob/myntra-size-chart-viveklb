@@ -1,2 +1,12 @@
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
 
-/* Your CSS Code here. */
+th, td {
+  border: 1px solid #999;
+  padding: 8px 12px;
+  text-align: center;
+}
